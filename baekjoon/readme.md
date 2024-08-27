@@ -2,6 +2,16 @@
 
 |번호|제목|링크|태그|
 |:---:|:---:|:---:|:---:|
+|25083|새싹 |https://www.acmicpc.net/problem/25083|구현|
+|27866|문자와 문자열|https://www.acmicpc.net/problem/27866|구현,문자열|
+|2439|별 찍기 - 2|https://www.acmicpc.net/problem/2439|구현|
+|11720|숫자의 합|https://www.acmicpc.net/problem/11720|구현,수학,문자열|
+|31403|A+B-C|https://www.acmicpc.net/problem/31403|사칙연산,수학,문자열|
+|2562|최댓값|https://www.acmicpc.net/problem/2562|구현|
+|2884|알람 시계|https://www.acmicpc.net/problem/2884|사칙연산,수학|
+|10250|ACM 호텔|https://www.acmicpc.net/problem/10250|사칙연산,구현,수학|
+|10818|최소, 최대|https://www.acmicpc.net/problem/10818|구현,수학|
+|1152|단어의 개수|https://www.acmicpc.net/problem/1152|구현,문자열|
 |9498|시험 성적|https://www.acmicpc.net/problem/9498|구현|
 |10869|사칙연산|https://www.acmicpc.net/problem/10869|구현,사칙연산,수학|
 |10871|X보다 작은 수|https://www.acmicpc.net/problem/10871|구현|
