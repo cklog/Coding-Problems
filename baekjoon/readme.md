@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|:---:|
 |9498|시험 성적|https://www.acmicpc.net/problem/9498|구현|
 |10869|사칙연산|https://www.acmicpc.net/problem/10869|구현,사칙연산,수학|
-||A/B|https://www.acmicpc.net/problem/1008|구현,사칙연산,수학|
+|10871|X보다 작은 수|https://www.acmicpc.net/problem/10871|구현|
 ||두 수 비교하기|https://www.acmicpc.net/problem/1330|구현|
 ||별 찍기 - 1|https://www.acmicpc.net/problem/2438|구현|
 ||검증수|https://www.acmicpc.net/problem/2475|구현,사칙연산,수학|
