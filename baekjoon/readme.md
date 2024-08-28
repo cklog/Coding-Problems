@@ -2,6 +2,25 @@
 
 |번호|제목|링크|태그|
 |:---:|:---:|:---:|:---:|
+|2309|일곱 난쟁이|https://www.acmicpc.net/problem/2309|브루트포스 알고리즘,정렬|
+|10808|알파벳 개수|https://www.acmicpc.net/problem/10808|구현,문자열|
+|2979|트럭 주차|https://www.acmicpc.net/problem/2979|구현,시뮬레이션|
+|10988|팰린드롬인지 확인하기|https://www.acmicpc.net/problem/10988|구현,문자열|
+|1159|농구 경기|https://www.acmicpc.net/problem/1159|구현,문자열|
+|11655|ROT13|https://www.acmicpc.net/problem/11655|구현,문자열|
+|2559|수열|https://www.acmicpc.net/problem/2559|누적 합,두 포인터,슬라이딩 윈도우|
+|1620|나는야 포켓몬 마스터 이다솜|https://www.acmicpc.net/problem/1620|자료 구조,해시를 사용한 집합과 맵|
+|9375|패션왕 신해빈|https://www.acmicpc.net/problem/9375|수학,자료 구조,조합론,해시를 사용한 집합과 맵|
+|1213|팰린드롬 만들기|https://www.acmicpc.net/problem/1213|구현,그리디 알고리즘,문자열|
+|1940|주몽|https://www.acmicpc.net/problem/1940|정렬,두 포인터|
+|3986|좋은 단어|https://www.acmicpc.net/problem/3986|자료 구조,스택|
+|1629|곱셈|https://www.acmicpc.net/problem/1629|수학,분할 정복을 이용한 거듭제곱|
+|4375|1|https://www.acmicpc.net/problem/4375|수학,브루트포스 알고리즘,정수론|
+|||||
+|||||
+|||||
+|||||
+|||||
 |25083|새싹 |https://www.acmicpc.net/problem/25083|구현|
 |27866|문자와 문자열|https://www.acmicpc.net/problem/27866|구현,문자열|
 |2439|별 찍기 - 2|https://www.acmicpc.net/problem/2439|구현|
