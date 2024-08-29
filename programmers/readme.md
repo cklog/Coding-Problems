@@ -2,6 +2,13 @@
 
 |번호|제목|링크|타입|
 |:---:|:---:|:---:|:---:|
+|133024|인기있는 아이스크림|https://school.programmers.co.kr/learn/courses/30/lessons/133024|SELECT|
+|157342|자동차 평균 대여 기간 구하기|https://school.programmers.co.kr/learn/courses/30/lessons/157342|String, Date|
+|59040|고양이와 개는 몇 마리 있을까|https://school.programmers.co.kr/learn/courses/30/lessons/59040|GROUP BY|
+|||||
+|||||
+|||||
+|||||
 |132203|흉부외과 또는 일반외과 의사 목록 출력하기|https://school.programmers.co.kr/learn/courses/30/lessons/132203|SELECT|
 |151138|자동차 대여 기록에서 장기/단기 대여 구분하기|https://school.programmers.co.kr/learn/courses/30/lessons/151138|String, Date|
 |133026|성분으로 구분한 아이스크림 총 주문량|https://school.programmers.co.kr/learn/courses/30/lessons/133026|GROUP BY|
