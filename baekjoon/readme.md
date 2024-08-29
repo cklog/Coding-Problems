@@ -2,16 +2,16 @@
 
 |번호|제목|링크|태그|
 |:---:|:---:|:---:|:---:|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|10809|알파벳 찾기|https://www.acmicpc.net/problem/10809|구현,문자열|
+|8958|OX퀴즈|https://www.acmicpc.net/problem/8958|구현,문자열|
+|3052|나머지|https://www.acmicpc.net/problem/3052|수학,사칙연산|
+|2920|음계|https://www.acmicpc.net/problem/2920|구현|
+|2675|문자열 반복|https://www.acmicpc.net/problem/2675|구현,문자열|
+|2577|숫자의 개수|https://www.acmicpc.net/problem/2577|수학,구현,사칙연산|
+|2231|분해합|https://www.acmicpc.net/problem/2231|브루트포스 알고리즘|
+|1978|소수 찾기|https://www.acmicpc.net/problem/1978|수학,정수론,소수 판정|
+|30802|웰컴 키트|https://www.acmicpc.net/problem/30802|수학,구현,사칙연산|
+|4153|직각삼각형|https://www.acmicpc.net/problem/4153|수학,기하학,피타고라스 정리|
 |||||
 |||||
 |||||
